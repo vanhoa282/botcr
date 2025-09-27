@@ -1,0 +1,119 @@
+{
+    "users": {
+        "6056680058": [
+            {
+                "link": "https://thesieuvip.net/cron-module/charging?pass_cron=thesieuvip008",
+                "method": "GET",
+                "time": 55,
+                "user_id": "6056680058",
+                "job_id": "6056680058_0_1757368691.956165"
+            },
+            {
+                "link": "https://thesieuvip.net/cron-module/recharge?pass_cron=thesieuvip008",
+                "method": "GET",
+                "time": 60,
+                "user_id": "6056680058",
+                "job_id": "6056680058_1_1757368765.586429"
+            },
+            {
+                "link": "https://thesieuvip.net/cron-module/softcard?pass_cron=thesieuvip008",
+                "method": "GET",
+                "time": 60,
+                "user_id": "6056680058",
+                "job_id": "6056680058_2_1757369162.92438"
+            },
+            {
+                "link": "https://thesieuvip.net/cron-module/paygate?pass_cron=thesieuvip008",
+                "method": "GET",
+                "time": 60,
+                "user_id": "6056680058",
+                "job_id": "6056680058_3_1757369189.111603"
+            },
+            {
+                "link": "https://clonevia24h.site/allcron.php",
+                "method": "GET",
+                "time": 60,
+                "user_id": "6056680058",
+                "job_id": "6056680058_4_1758550025.047726"
+            }
+        ],
+        "6017372188": [
+            {
+                "link": "https://subsieuvip.vn/api/syn-services-master?password=22072005",
+                "method": "GET",
+                "time": 180,
+                "user_id": "6017372188",
+                "job_id": "6017372188_0_1757502326.886622"
+            },
+            {
+                "link": "https://subsieuvip.vn/api/v1/cronJob/recharge/ACB?password=22072005",
+                "method": "GET",
+                "time": 60,
+                "user_id": "6017372188",
+                "job_id": "6017372188_1_1757502378.614269"
+            },
+            {
+                "link": "https://subsieuvip.vn/api/v1/update/price?password=22072005",
+                "method": "GET",
+                "time": 180,
+                "user_id": "6017372188",
+                "job_id": "6017372188_3_1757502426.283665"
+            },
+            {
+                "link": "https://dichvumxh247.com/api/syn-services-master?password=manhdiep",
+                "method": "GET",
+                "time": 300,
+                "user_id": "6017372188",
+                "job_id": "6017372188_4_1758972554.074655"
+            },
+            {
+                "link": "https://dichvumxh247.com/api/update?password=manhdiep",
+                "method": "GET",
+                "time": 900,
+                "user_id": "6017372188",
+                "job_id": "6017372188_5_1758972589.755335"
+            },
+            {
+                "link": "https://dichvumxh247.com/api/v1/update/price?password=manhdiep",
+                "method": "GET",
+                "time": 300,
+                "user_id": "6017372188",
+                "job_id": "6017372188_6_1758972616.304008"
+            },
+            {
+                "link": "https://subsieuvip.vn/api/update?password=22072005",
+                "method": "get",
+                "time": 900,
+                "user_id": "6017372188",
+                "job_id": "6017372188_6_1758972756.317555"
+            }
+        ]
+    },
+    "notifications": {
+        "6056680058": false,
+        "6017372188": true
+    },
+    "registered_users": {
+        "7896268202": {
+            "user_id": "7896268202",
+            "username": "cskhtsv",
+            "first_name": "CSKH TSV \ufe0f",
+            "last_name": "N/A",
+            "registered_at": "2025-09-09T04:54:42.187107+07:00"
+        },
+        "6056680058": {
+            "user_id": "6056680058",
+            "username": "haikietnioi",
+            "first_name": "LowTel",
+            "last_name": "N/A",
+            "registered_at": "2025-09-09T04:55:06.642186+07:00"
+        },
+        "6017372188": {
+            "user_id": "6017372188",
+            "username": "diephatay",
+            "first_name": "\u2728 M\u1ea1nh \u0110i\u1ec7p \u4e97 SUBSIEUVIP.VN R\u00fat VTS &Tool MMO \ud83c\uddfb\ud83c\uddf3",
+            "last_name": "N/A",
+            "registered_at": "2025-09-10T15:56:10.059618+07:00"
+        }
+    }
+}
